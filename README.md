@@ -1,3 +1,1 @@
-# Food-Delivery-WebApp-using-MERN
-# F
-# Food-Delivery-WebApp-using-MERN
+Welcome to our innovative food delivery web application! Designed to bring convenience and culinary delight straight to your doorstep, our platform seamlessly connects you with a diverse selection of restaurants and cuisines in your area. Whether you're craving comforting classics, exploring new flavors, or looking for quick bites, we've got you covered.
